@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.\SQLEXPRESS; Database=FishingForum; Trusted_Connection=True; Encrypt=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Repository\FishingForum -f -NoPluralize -NoOnConfiguring
